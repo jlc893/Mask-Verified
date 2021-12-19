@@ -1,0 +1,7 @@
+flask
+cv2
+tensorflow
+numpy
+os
+random
+sklearn
